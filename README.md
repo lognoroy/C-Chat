@@ -1,8 +1,8 @@
-C-Chat 
+#C-Chat 
 
-Technologies: ReactJS, NodeJS, Socket.IO
+##Technologies: ReactJS, NodeJS, Socket.IO
 
-Features:
+##Features:
 
 1. Developed a real-time chat application that utilized Node.js and Socket.io to facilitate seamless communication between users.
 
