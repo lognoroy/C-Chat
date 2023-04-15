@@ -1,4 +1,6 @@
-C-Chat | ReactJS, NodeJS, Socket.IO
+C-Chat 
+
+Technologies: ReactJS, NodeJS, Socket.IO
 
 Features:
 
